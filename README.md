@@ -1,2 +1,1 @@
-# samplenito
-Hellow
+tignan nga kung gagana ito
